@@ -8,7 +8,7 @@ SECRET_KEY = os.getenv("SECRET_KEY", default='django-insecure-j_89af+30&&4qm*8z9
 
 DEBUG = True
 
-ALLOWED_HOSTS = ['89.169.162.47', 'http://tasksbkvpractice.myvnc.com/']
+ALLOWED_HOSTS = ['89.169.162.47', 'tasksbkvpractice.myvnc.com']
 # Application definition
 
 INSTALLED_APPS = [
